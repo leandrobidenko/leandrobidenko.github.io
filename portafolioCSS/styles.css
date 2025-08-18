@@ -1,0 +1,27 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(31, 6, 95);
+    color: white;
+}
+
+h1#nombre {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 255, 140);
+}
+
+p.italic {
+    font-style: italic;
+    font-size: large;
+}
+
+p.red {
+    color: red;
+}
+
+p.oblique {
+    font-style: oblique;
+}
+p#parrafooter {
+    background-color: aqua;
+    color: brown;
+}
